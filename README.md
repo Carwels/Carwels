@@ -1,6 +1,6 @@
 # PROJECTS
 
-I'm a student of Web Development at Ironhack Barcelona, I will be publishing all my projects here.
+I'm a recent graduated student of Web Development at Ironhack Barcelona, Here are some of the projects I have done during our course.
 
 ## 1. Game project
 - [Square Jump Game Repository](https://github.com/Carwels/GameProject)
