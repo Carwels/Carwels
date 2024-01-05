@@ -1,12 +1,3 @@
 # PROJECTS
 
-I'm a recent graduated student of Web Development at Ironhack Barcelona, Here are some of the projects I have done during our course.
-
-## 1. Game project
-- [Square Jump Game Repository](https://github.com/Carwels/GameProject)
-
-## 2. Full-stack Web Application project
-- [IronTinder Repository](https://github.com/Project2-Irontinder/Irontinder)
-
-## 3. React Web Application project
-- [Merci Repository](https://github.com/Project-3-Merci/Merci)
+I am a graduate in Web Development from Ironhack Barcelona. Having previously studied tourism, I transitioned to web development, and since then, I have engaged in various projects involving Next.js, React, JavaScript, TypeScript, SCSS, and CSS. Currently, I am pursuing a Bachelor's degree in Informatics at Universitat Carlemany.
